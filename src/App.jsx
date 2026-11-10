@@ -1157,7 +1157,7 @@ function handleConfirmedLogout() {
               color: "#222",
               width: "100%",
               maxWidth: "400px",
-              padding: "28px",
+              padding: "29px",
               borderRadius: "14px",
               boxShadow: "0 8px 30px rgba(0,0,0,0.2)",
             }}
@@ -1219,8 +1219,8 @@ function handleConfirmedLogout() {
               color: "#222",
               width: "100%",
               maxWidth: "400px",
-              padding: "28px",
-              borderRadius: "14px",
+              padding: "29px",
+              borderRadius: "15px",
               textAlign: "center",
               boxShadow: "0 8px 30px rgba(0,0,0,0.2)",
             }}
@@ -1235,7 +1235,7 @@ function handleConfirmedLogout() {
               style={{
                 display: "flex",
                 justifyContent: "center",
-                gap: "12px",
+                gap: "13px",
                 marginTop: "24px",
                 flexWrap: "wrap",
               }}
